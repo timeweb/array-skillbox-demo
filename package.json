@@ -1,0 +1,16 @@
+{
+  "name": "array-skillbox-demo",
+  "version": "1.0.0",
+  "description": "Array methods for Skillbox by Timeweb",
+  "main": "arrays.js",
+  "keywords": [
+    "Array methods",
+    "Demo",
+    "Timeweb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimewebAccount/array-skillbox-demo.git"
+  },
+  "license": "MIT"
+}
